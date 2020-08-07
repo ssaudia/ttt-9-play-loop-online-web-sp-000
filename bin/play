@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative "../lib/play"
-def get_variable_from_file(file, variable)
+def get_variable_from_file(read_file, variable)
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
